@@ -6,7 +6,7 @@ Ce projet a été réalisé pour le cadre du club de robotique E-Gab de l'Ecole 
 Période du projet :  janvier 2024 - févirier 2024
 
 Matériel : 
--Moteurs à train d'engrenages avec un codeur à effet Haull : Nexus 12V DC, 120 tr/min
+- Moteurs à train d'engrenages avec un codeur à effet Haull : Nexus 12V DC, 120 tr/min
 - Carte ESP82266
 - Motor Driver L298N
    
