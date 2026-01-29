@@ -12,10 +12,12 @@ Matériel :
    
   .
 
+<img width="510" height="260" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/115ca65e-7f26-45cf-9f54-d374353a610a" />
+.
+
 <img width="480" height="500" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/12291f91-9851-4dd7-9d7c-b96f56bbf23c" />
   
 
-<img width="510" height="260" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/115ca65e-7f26-45cf-9f54-d374353a610a" />
 
  .
 
