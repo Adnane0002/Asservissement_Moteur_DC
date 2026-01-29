@@ -10,5 +10,5 @@ L'approche est inspirée de Curio Res. Elle a été portée sur une platforme ES
  .
 
  
-<img width="360" height="188" alt="Traceur_serie" src="https://github.com/user-attachments/assets/757c2304-3a9e-4cd5-9938-c931a97a1ac5" />
+<img width="700" height="350" alt="Traceur_serie" src="https://github.com/user-attachments/assets/757c2304-3a9e-4cd5-9938-c931a97a1ac5" />
 
