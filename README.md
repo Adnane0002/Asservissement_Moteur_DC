@@ -12,8 +12,7 @@ Matériel :
    
   .
 
-![PID_Position_Control](https://github.com/user-attachments/assets/12291f91-9851-4dd7-9d7c-b96f56bbf23c)
-<img width="500" height="248" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/12291f91-9851-4dd7-9d7c-b96f56bbf23c" />
+<img width="540" height="548" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/12291f91-9851-4dd7-9d7c-b96f56bbf23c" />
   
 
 <img width="500" height="248" alt="Asservissement_Moteur_egab" src="https://github.com/user-attachments/assets/115ca65e-7f26-45cf-9f54-d374353a610a" />
